@@ -1,4 +1,4 @@
-# mag_project_euler
+# Project euler
 Here, I will keep my project Euler resolution
 
 ## Website: 
